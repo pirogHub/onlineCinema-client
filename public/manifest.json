@@ -1,0 +1,17 @@
+{
+    "theme_color": "#e30b13",
+    "backgroud_color": "#191b1f",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Online Cinema",
+    "app_name": "Online Cinema",
+    "short_name": "Online Cinema",
+    "description": "Watch Movies and TV shows online or stream right in your browser",
+    "icons": [
+        {
+            "src": "/favicons/apple-touch-icon-57x57.png",
+            "size": "57x57",
+            "type": "image/png"
+        }
+    ]
+}
