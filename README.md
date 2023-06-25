@@ -1,4 +1,4 @@
-##Онлайн кинотеатр
+## Онлайн кинотеатр
 
 TypeScript
 
@@ -29,3 +29,7 @@ NestJS, accessToken, Доступ по ролям через кастомные 
 Видеоплеер, Доступ к роутам по ролям,Админка, Редактирование фильмов Администратором, NextJS, Redux, Frammer motion, useQuery
 
 >Database: MongoDB
+
+![channel](admin.movies.png)
+![main](admin.user.png)
+![player](discovery.png)
